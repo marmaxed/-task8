@@ -2,10 +2,8 @@
 
 Создание и запуск 
 
-npm create vite@latest task4 -- --template react-ts\
-cd task4\
-npm install
+npm install\
+npm run dev
 
-После этого переместить в src все файлы из репозитория 
+<img width="274" height="417" alt="Screenshot from 2025-07-14 00-21-12" src="https://github.com/user-attachments/assets/b6dbfdb8-327a-4098-b5b2-f90eacb8984c" />
 
-Запуск - npm run dev
